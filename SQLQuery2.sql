@@ -1,0 +1,1 @@
+﻿select  SUM((product.cost*body.amount)-((product.cost*body.amount)/100*body.discount)) from body  inner join upper on body.upper_id = upper.id inner join product on product.id = body.product_id where upper.serial = '2' ;
