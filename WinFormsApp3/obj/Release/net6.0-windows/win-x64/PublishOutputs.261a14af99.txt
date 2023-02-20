@@ -1,0 +1,7 @@
+C:\Users\Dakco\Desktop\втз\WinFormsApp3.exe
+C:\Users\Dakco\Desktop\втз\WinFormsApp3.dll
+C:\Users\Dakco\Desktop\втз\WinFormsApp3.deps.json
+C:\Users\Dakco\Desktop\втз\WinFormsApp3.runtimeconfig.json
+C:\Users\Dakco\Desktop\втз\WinFormsApp3.pdb
+C:\Users\Dakco\Desktop\втз\System.Data.SqlClient.dll
+C:\Users\Dakco\Desktop\втз\sni.dll
